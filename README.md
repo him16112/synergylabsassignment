@@ -1,4 +1,8 @@
-# MyApp
+ ### DEPLOYED LINK
+ https://teal-puppy-92f7ae.netlify.app/
+
+
+## SynergyLabsAssignment
 
 MyApp is a user management application built with React and Material-UI. This application allows users to view, add, edit, and delete user information.
 
@@ -37,5 +41,3 @@ To get a copy of the project up and running on your local machine, follow these 
    cd myapp
    npm install
 
- ### DEPLOYED LINK
- https://teal-puppy-92f7ae.netlify.app/
