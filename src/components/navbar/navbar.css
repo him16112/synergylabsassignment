@@ -1,0 +1,16 @@
+.MuiAppBar-root {
+    background-color: #2C3E50;
+  }
+  
+  .MuiTypography-root {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+  }
+  
+  .MuiButton-root {
+    margin-left: 15px;
+    text-transform: none;
+  }
+  
+
+  
